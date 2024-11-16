@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-about {
+    background-color: #323f4b;
+}
+
+.para-about {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 22px;
+}
+
+.about-img {
+    width: 100%;
+}
+
+.about-head1 {
+    color: #cced00;
+    font-weight: bold;
+    font-size: 22px;
+    font-family: "Roboto";
+}
+
+.about-head2 {
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+    font-family: "Roboto";
+}
+
+.bg-about-container {
+    background-color: #323f4b;
+    border-radius: 18px;
+    margin-bottom: 20px;
+
+}
+
+.bg-about-2 {
+    background-color: #1f2933;
+}
+
+.skill-img {
+    height: 80px;
+    width: 70px;
+}
+
+.about-head21 {
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    font-family: "Roboto";
+}
