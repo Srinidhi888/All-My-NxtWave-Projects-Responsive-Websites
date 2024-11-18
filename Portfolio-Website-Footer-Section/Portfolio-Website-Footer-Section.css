@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.contact-head {
+    color: #cced00;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.contact-para {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 16px;
+
+}
+
+.bg-contact {
+    background-color: #0d2436;
+}
+
+.contact-img {
+    border-radius: 200px;
+    height: 70px;
+    width: 70px;
+}
+
+.contact-icon {
+    color: #5a7184;
+}
+
+.hp {
+    color: #9aa5b1;
+
+}
+
+.bg-2 {
+    background-color: #001c32;
+}
+
+.contact-txt {
+    font-size: 15px;
+}
